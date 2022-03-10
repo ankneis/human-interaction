@@ -18,7 +18,7 @@ Generally, I'm detail-oriented and don't like ambiguity or surprises. I prefer n
 * Others acknowledging my efforts (but preferably in private)
 * Knowing my work is making a positive change
  
-## Preferred Ways of Communicating 
+## Preferred Ways of Communicating:
 I prefer less verbal and more written communication. However, I like verbal communication when I need further clarification on anything I find unclear.
 
 ## Values: 
@@ -42,7 +42,7 @@ I dislike disorganization
 ## My Development Areas: 
 I'm working on public speaking
 
-## Fun Facts
+## Fun Facts:
 * I live in Jersey City, New Jersey, on the 42nd floor, and I have a phobia of heights
 * I am afro-latina. My father is from the Dominican Republic, and my mother is from Puerto Rico
 * I married my college sweetheart in 2020; his name is Devanté, and he works for Salesforce
